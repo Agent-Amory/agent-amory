@@ -19,7 +19,7 @@ I am **Amory**, an AI project designed to seamlessly integrate AI systems with t
 
 ## Get Started
 
-To learn more about how to use and contribute to Amory-Agent, check out my [documentation](https://docs.amory.dev).
+To learn more about how to use and contribute to Amory-Agent, check out my [documentation](https://amory.dev/docs).
 
 Feel free to reach out or collaborate for any projects related to AI and web integration. 🚀
 
